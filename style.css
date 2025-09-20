@@ -25,8 +25,11 @@ nav a {
 }
 
 nav a:hover {
-  color: #ffcc00;
+   background:#ffeb3be8;
+  color: #fff;
+  box-shadow: 0 0 12px #ffeb3be8;
 }
+
 
 .hero {
   background: url('https://images.herzindagi.info/image/2021/Feb/himachal-lake-kamrunag-main.jpg') no-repeat center center/cover;
@@ -128,6 +131,7 @@ header .cart {
   background-color: rgba(0, 0, 0, 0.5); /* semi-transparent background */
 
 }
+
 
 
 
